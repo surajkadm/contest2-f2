@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+    color: white;
+}
+.container{
+    padding: 50px 30px;
+}
+
+#profession{
+    margin: 20px 0px;
+    padding: 8px;
+    background-color: transparent;
+    color: beige;
+}
+
+.data>div{
+    border: 2px solid white;
+    margin: 10px;
+    padding: 5px;    
+    width: 50%;
+    border-radius: 5px;
+}
+
+.filter>#filter-btn{
+    padding: 10px 35px;
+}
+
+.formInput{
+    display: flex;
+    flex-direction: row;
+}
+
+input{
+    margin: 20px 0px;
+    padding: 8px;
+    background-color: transparent;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+
+.btn-sub>#add-btn{
+    padding: 10px 35px;
+}
